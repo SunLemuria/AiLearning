@@ -1,17 +1,23 @@
-# 机器学习 MachineLearning
+# AI Learning
 
-* [ApacheCN 组织资源](https://github.com/apachecn/home): https://github.com/apachecn/home
+> 组织介绍
+
+* 首页地址: <http://www.apachecn.org>
+* 关于我们: <http://www.apachecn.org/about>
+* 我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！
+* 合作or侵权，请联系【fonttian】fonttian@gmail.com | 请抄送一份到 apachecn@163.com
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
 * **ApacheCN - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="img/MainPage/ApacheCN-group.png" alt="ApacheCN - 学习机器学习群[629470233]" title="ApacheCN - 学习机器学习群[629470233]"></a>**
 * **Machine Learning in Action (机器学习实战) | [ApacheCN(apache中文网)](http://cwiki.apachecn.org/)**
 * 电子版书籍：[【机器学习实战-中文版-带目录版.pdf】](https://github.com/apachecn/AiLearning/tree/master/books)  
-* -- 感谢 [群小哥哥：Wizard Zhang](https://github.com/wizardforcel) 生成的电子书[《机器学习实战-ApacheCN.pdf》](https://github.com/apachecn/AiLearning/blob/master/books/机器学习实战-ApacheCN.pdf)
+* -- 感谢 [飞龙小哥哥](https://github.com/wizardforcel) 生成的电子书[《机器学习实战-ApacheCN.pdf》](https://github.com/apachecn/AiLearning/blob/master/books/机器学习实战-ApacheCN.pdf)
 * **视频已更新完成，如果你觉得有价值，请帮忙点 Star【后续组织学习活动：sklearn、kaggle、 Pytorch 和 tensorflow】**
 * -- 视频网站：优酷 ／bilibili / Acfun / 网易云课堂，可直接在线播放。（最下方有相应链接）
-* -- [群小哥哥：红色石头的机器学习之路](https://github.com/RedstoneWill): [台湾大学林轩田机器学习基石课程 - **系列学习笔记**](https://mp.weixin.qq.com/s/xb0i55zIQVzCiSZALbvncg)
+* -- [群小哥哥：红色石头](https://github.com/RedstoneWill): [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
 * 推荐一个[机器学习笔记](https://feisky.xyz/machine-learning): https://feisky.xyz/machine-learning
+* 推荐一个[liuhuanyong大佬](https://github.com/liuhuanyong)整理的nlp全面知识体系: <https://liuhuanyong.github.io>
 
 <table>
   <tr>
@@ -123,15 +129,22 @@
     <td>机器学习实战</td>
     <td><a href="blog/ml/15.大数据与MapReduce.md">第 15 章: 大数据与 MapReduce</a></td>
     <td>工具</td>
-    <td>空缺 - 有兴趣私聊片刻</td>
-    <td>842376188</td>
+    <td><a href="https://github.com/wnma3mz">@wnma3mz</a></td>
+    <td>1003324213</td>
   </tr>
   <tr>
     <td>Ml项目实战</td>
-    <td><a href="blog/ml/16.推荐系统.md">第 16 章: 推荐系统</a></td>
+    <td><a href="blog/ml/16.推荐系统.md">第 16 章: 推荐系统（已迁移）</a></td>
     <td>项目</td>
-    <td>空缺 - 有兴趣私聊片刻</td>
-    <td>842376188</td>
+    <td><a href="https://github.com/apachecn/RecommenderSystems">推荐系统（迁移后地址）</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>第一期的总结</td>
+    <td><a href="report/2017-04-08_第一期的总结.md">2017-04-08: 第一期的总结</a></td>
+    <td>总结</td>
+    <td>总结</td>
+    <td>529815144</td>
   </tr>
 </table>
 
@@ -140,9 +153,9 @@
 * 1.) [入门介绍](/blog/dl/1.入门介绍.md)
 * 2.） 代码位置：src/py2.x or py3.x/DL
 
-# 自然语言处理 NLP
+# 自然语言处理 NLP 学习
 
-## 百度公开课（使用场景了解）
+## 1.使用场景 （百度公开课）
 
 > 第一部分 入门介绍
 
@@ -163,7 +176,7 @@
 
 * 4.) [UNIT-语言理解与交互技术](/blog/nlp/4.UNIT-语言理解与交互技术.md)
 
-## 自然语言处理(NLP) - 相关项目
+## 2.相关结构
 
 学习过程中-内心复杂的变化！！！
 
@@ -177,7 +190,7 @@
   2）国外就不举例了，我看不懂！
 3. 开源的框架
   1）国外的开源框架： tensorflow/pytorch 文档+教程+视频（官方提供）
-  2) 国内的开源框架: 额额，还真举例不出来！但是牛逼吹得不比国外差！（好像 MXNet 是沐神弄的？？ 文档+教程+视频）
+  2) 国内的开源框架: 额额，还真举例不出来！但是牛逼吹得不比国外差！（MXNet虽然有众多华人参与开发，但不能算是国内开源框架。基于MXNet的动手学深度学习(https://zh.diveintodeeplearning.org)中文教程,已经由沐神(李沐)以及阿斯顿·张讲授录制，公开发布。  文档+第一季教程+视频）
 每一次深入都要去翻墙，每一次深入都要Google，每一次看着国内的说：哈工大、讯飞、中科大、百度、阿里 多牛逼，但是资料还是得国外去找！
 有时候真的挺狠的！真的有点瞧不起自己国内的技术环境！
 
@@ -233,6 +246,12 @@
 2. 还有更多正式的语料库得到了很好的研究; 例如：
     [布朗大学现代美国英语标准语料库](https://en.wikipedia.org/wiki/Brown_Corpus)。大量英语单词样本。
     [谷歌10亿字语料库](https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark)。
+
+> 新词发现
+
+* 中文分词新词发现
+* python3利用互信息和左右信息熵的中文分词新词发现
+* <https://github.com/zhanzecheng/Chinese_segment_augment>
 
 > 句子相似度识别
 
@@ -322,6 +341,11 @@ mage字幕是为给定图像生成文本描述的任务。
 * word2vec + textrank
 * word2vec推荐文档: https://www.zhihu.com/question/44832436/answer/266068967
 * textrank推荐文档: https://blog.csdn.net/BaiHuaXiu123/article/details/77847232
+
+## Graph图计算【慢慢更新】
+
+* 数据集: [data/nlp/graph](data/nlp/graph)
+* 学习资料: spark graphX实战.pdf 【文件太大不方便提供，自己百度】
 
 ### 进一步阅读
 
@@ -451,6 +475,34 @@ mage字幕是为给定图像生成文本描述的任务。
 * [@平淡的天]()
 * [@凌少skierゞ]()
 * [@じ☆νЁ坐看云起]()
+* [古柳-DesertsX]()
+* [woodchuck]()
+* [自由精灵]()
+* [楚盟]()
+* [99杆清台]()
+* [时空守望者@]()
+* [只想发论文的渣渣]()
+* [目标: ml劝退专家]()
+
+> Ml 第三届 (2019-01-01)
+
+* [只会喊666的存在]()
+* [codefun007.xyz]()
+* [荼靡]()
+* [大鱼]()
+* [青鸟]()
+* [古柳-DesertsX]()
+* [Edge]()
+* [Alluka]()
+* [不发篇paper不改名片]()
+* [FontTian]()
+* [Bigjing]()
+* [仁 礼 智 爱]()
+* [可啪的小乖受]()
+* [老古董]()
+* [时空守望者]()
+* [我好菜啊]()
+* [Messi 19]()
 
 **欢迎贡献者不断的追加**
 
@@ -468,7 +520,20 @@ mage字幕是为给定图像生成文本描述的任务。
 
 资料来源:
 
-* https://machinelearningmastery.com/datasets-natural-language-processing
 * 【比赛收集平台】: https://github.com/iphysresearch/DataSciComp
+* https://github.com/pbharrin/machinelearninginaction
+* https://machinelearningmastery.com/datasets-natural-language-processing
 
-![](https://apachecn.github.io/home/img/about/donate.jpg)
+## 赞助我们
+
+<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
+
+## License
+
+GPL-3.0 © [ApacheCN](https://github.com/apachecn)
+
+## Organization
+
+* ApacheCN 组织资源: <https://github.com/apachecn/home>
+
+> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远
